@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item
+            android:id="@+id/categorySummary"
+            android:title="View Category Summary"
+            app:showAsAction="collapseActionView" />
+        <item
+            android:id="@+id/searchFilms"
+            android:title="Search Films"
+            app:showAsAction="collapseActionView" />
+
+        <item
+            android:id="@+id/searchRental"
+            android:title="Search Rental Locations"
+            app:showAsAction="collapseActionView" />
+
+</menu>
